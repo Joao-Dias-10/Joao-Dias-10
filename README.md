@@ -1,4 +1,4 @@
-Olá, eu sou João Dias! 👋
+Hello, I am João Dias! 👋
 <div align="center">
   <a href="https://github.com/Joao-Dias-10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Dias-10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
