@@ -1,23 +1,69 @@
-Hello, I am João Dias! 👋
-<div align="center">
-  <a href="https://github.com/Joao-Dias-10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Dias-10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Dias-10&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-<!--   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-</div>
-  
-  ##
-  
-  <div>
-  <a href="https://instagram.com/joao_rocha___" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaopedrorochajdias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rocha-dias-186aa5219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <!---![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)--->
-  </div>
+# João Dias | Engenheiro de Dados Sênior
+
+Engenheiro de Dados focado em arquiteturas distribuídas, pipelines de baixa latência e governança de dados em escala. Especialista em ecossistemas Databricks e AWS.
+
+---
+
+### Perfil Profissional
+
+* Construção de arquiteturas **Lakehouse** e plataformas de **Observabilidade** em tempo real.
+* Experiência com **Structured Streaming** e processamento distribuído (Spark/Trino).
+* Implementação de camadas **Medallion**, CDC, SCD2 e frameworks de **Data Quality**.
+* Infraestrutura como código (**Terraform**) e orquestração de fluxos complexos.
+
+---
+
+### Stack Tecnológica
+
+**Cloud, Platforms & Storage**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Iceberg-0080FF?style=for-the-badge&logo=apache-iceberg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+</p>
+
+**Processing & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trino-DD0031?style=for-the-badge&logo=trino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Glue-BE4111?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+**Orchestration, Ops & Monitoring**
+<p align="left">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+</p>
+
+---
+
+### Projetos Selecionados
+
+**[Real-Time Churn Prevention](https://github.com/Joao-Dias-10/real-time-churn-prevention)**
+Pipeline de detecção de churn em <5s utilizando **Kafka**, **PySpark Streaming**, **Iceberg** e **Trino**. Monitoramento via **Prometheus/Grafana**.
+
+**[AWS Data Observability Platform](https://github.com/Joao-Dias-10/aws-data-observability-platform)**
+Plataforma serverless para detecção de inconsistências entre sistemas em escala, utilizando **Glue**, **Athena**, **Lambda** e orquestrado via **Terraform**.
+
+**[Databricks Customer 360](https://github.com/Joao-Dias-10/databricks-lakehouse-customer-360)**
+Pipeline end-to-end com **Delta Lake**, **CDC** e **SCD2**. Modelagem Medallion para visões de marketing e vendas com foco em auditoria e escala.
+
+---
+
+### Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rocha-dias-186aa5219"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joaopedrorochajdias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
