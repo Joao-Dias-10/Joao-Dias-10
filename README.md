@@ -48,19 +48,6 @@ Engenheiro de Dados focado em arquiteturas distribuídas, pipelines de baixa lat
 
 ---
 
-### Projetos Selecionados
-
-**[Real-Time Churn Prevention](https://github.com/Joao-Dias-10/real-time-churn-prevention)**
-Pipeline de detecção de churn em <5s utilizando **Kafka**, **PySpark Streaming**, **Iceberg** e **Trino**. Monitoramento via **Prometheus/Grafana**.
-
-**[AWS Data Observability Platform](https://github.com/Joao-Dias-10/aws-data-observability-platform)**
-Plataforma serverless para detecção de inconsistências entre sistemas em escala, utilizando **Glue**, **Athena**, **Lambda** e orquestrado via **Terraform**.
-
-**[Databricks Customer 360](https://github.com/Joao-Dias-10/databricks-lakehouse-customer-360)**
-Pipeline end-to-end com **Delta Lake**, **CDC** e **SCD2**. Modelagem Medallion para visões de marketing e vendas com foco em auditoria e escala.
-
----
-
 ### Contato
 
 <p align="left">
